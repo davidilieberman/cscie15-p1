@@ -1,0 +1,16 @@
+body { padding: 12px; 
+	background-color:#4a4a4a;
+	color:#dad8cd; }
+
+a { color: #fcac8c; }
+
+a:hover { color: #af6850; }
+
+div.content { float:left; padding-left:18px; }
+
+div.pic { float:left; }
+
+h2, h4 { margin-left:12px; }
+
+li div { padding-left:18px; font-style:italic; }
+
