@@ -7,3 +7,5 @@ This static HTML project illustrates the use of GitHub as a repository and conte
 GitHub URL: [https://github.com/davidilieberman/cscie15-p1]()
 
 Published URL: [http://cscie15-p1.davidisadorelieberman.com/]()
+
+Video: [https://www.youtube.com/watch?v=VXSDLeHfkCU&feature=youtu.be]()
